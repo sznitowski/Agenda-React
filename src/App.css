@@ -1,0 +1,18 @@
+body {
+    background: #c4eaf9;
+}
+h1{
+    color: white;
+    margin-left: 25%;
+}
+.btn-expand{
+    justify-content: left;
+}
+.container-input{
+    width: 80%;
+    text-align: center;
+}
+.table{
+    width: 80%;
+    text-align: center;
+}
