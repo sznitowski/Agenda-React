@@ -4,7 +4,7 @@
 ### progresive web app, realizada con React, que permite almacenar informacion en el local storage.
 ### consiste en agendar contactos que son id, nombre y numero.
 <hr>
-    ![Screenshot](https://user-images.githubusercontent.com/78902757/129145631-67e37f32-3023-4b85-b3d1-88a579ac31ec.png)
+   <img src="https://file:///C:/Users/Acer/Desktop/agenda.png" style=" width:100px ; height:100px " />
 
 ### para poder utilizarla es necesario instalar los siguientes paquetes o dependencias
 <hr>
