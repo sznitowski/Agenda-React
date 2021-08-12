@@ -21,5 +21,5 @@ Tecnologias usadas en el proyecto:
 <hr>
 <ul>
 <li>npx create-react-app my-app --template cra-template-pwa</li>
-<li>npm uui</li>
+<li>npm uuid</li>
 </ul>
