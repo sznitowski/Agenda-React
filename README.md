@@ -13,7 +13,6 @@ Tecnologias usadas en el proyecto:
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 
 ![agenda](https://user-images.githubusercontent.com/78902757/129146219-770f2fa8-d888-4803-a717-c55ce39b0225.png)
