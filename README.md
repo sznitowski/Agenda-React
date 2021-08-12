@@ -5,7 +5,7 @@
 ### progresive web app, realizada con React, que permite almacenar informacion en el local storage.
 ### consiste en agendar contactos que son id, nombre y numero.
 Tecnologias usadas en el proyecto:
-<hr>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
